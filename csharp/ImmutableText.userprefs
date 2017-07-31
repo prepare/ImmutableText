@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0CDAA4B7-862F-4CE9-B844-02C956814B8F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImmutableText/Program.cs">
+    <Files>
+      <File FileName="ImmutableText/Program.cs" Line="8" Column="10" />
+      <File FileName="ImmutableText/ImmutableText.cs" Line="400" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ImmutableText PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

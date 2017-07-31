@@ -1,0 +1,3 @@
+/home/mkrueger/work/ImmutableText/csharp/ImmutableText/bin/Release/ImmutableText.exe
+/home/mkrueger/work/ImmutableText/csharp/ImmutableText/obj/x86/Release/ImmutableText.csproj.CoreCompileInputs.cache
+/home/mkrueger/work/ImmutableText/csharp/ImmutableText/obj/x86/Release/ImmutableText.exe
